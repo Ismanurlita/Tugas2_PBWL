@@ -1,0 +1,16 @@
+{
+    "name": "isma/pln_isma",
+    "description": "Tugas2_isma",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "isma\\PlnIsma\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Isma"
+        }
+    ],
+    "require": {}
+}
